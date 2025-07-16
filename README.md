@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Amit Verma 👋
 
-<!--
-**amitverma-tech/amitverma-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Tech Stack:
+- PHP | Laravel | CodeIgniter
+- JavaScript | React | Node.js
+- MySQL | MongoDB
+- Git | GitHub | cPanel
 
-Here are some ideas to get you started:
+### 🔥 Stats:
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitverma&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach Me:
+- 🌐 [Portfolio](https://your-portfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/yourname)
