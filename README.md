@@ -3,7 +3,7 @@
 
 <br />
 
-- 🔭 I’m currently working as a **PHP / Laravel Developer Intern** at Oyelabs  
+- 🔭 I’m currently working as a **PHP / Laravel Developer** at ForemostDigital.inc  
 - 🌱 I’m learning and building with **Laravel, React, and REST APIs**  
 - 💬 Ask me about **Laravel, CodeIgniter, PHP, MySQL, Git & Deployment**  
 - ⚡ Fun fact: I believe in writing clean, scalable, and maintainable code.
